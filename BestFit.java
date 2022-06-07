@@ -7,7 +7,7 @@ package trabalhoSistemasOperacionais;
 
 /**
  *
- * @author ferna
+ * @author abdias
  */
 public class BestFit {
     static void bestFit(int tamanhoBloco[], int m, int tamanhoProcesso[],
